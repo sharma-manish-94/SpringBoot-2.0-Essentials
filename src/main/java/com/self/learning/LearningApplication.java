@@ -1,4 +1,4 @@
-package com.manish.learning;
+package com.self.learning;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

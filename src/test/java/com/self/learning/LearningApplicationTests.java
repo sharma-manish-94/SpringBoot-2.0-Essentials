@@ -1,4 +1,4 @@
-package com.manish.learning;
+package com.self.learning;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
